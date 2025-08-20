@@ -11,17 +11,17 @@
 
 ## SUMMARY
 
-Innovative AI & Data Science professional with 15 years’ experience delivering production-grade AI/ML systems and advancing research. Built LLM-RAG on BigQuery (GCP) boosting efficiency by 80%; developed real-time anomaly detection reducing resolution time. Published 9 papers in top journals. Skilled in Generative AI, MLOps, and HPC, bridging research innovation and industry impact.
+Innovative AI & Data Science professional with 15 years’ experience delivering **production-grade AI/ML** systems and advancing research. Built **LLM-RAG on BigQuery (GCP)** boosting efficiency by **80%**; developed **real-time anomaly detection** reducing resolution time. **Published 9 paper**s in top journals. Skilled in Generative AI, MLOps, and **cloud (GCP, Azure, HPC)**, bridging research innovation and industry impact.
 
 ---
 
 ## EXPERIENCE
 
 ### Data Science Lead | Liberty Global | Amsterdam, Netherlands | July 2022 - Present
-- Designed and deployed a production-grade RAG system on BigQuery integrated with Large language models (LLMs) to automate ticket prioritization from large volumes of unstructured support data, improving operational efficiency and response speed by 80%.
-- Built real-time anomaly detection models for location-level operational errors (buffering, WiFi, app failures), enabling 15-min alerts that accelerated network issue resolution and improved customer satisfaction.
-- Developed root-cause models to diagnose customer-level buffering errors, pinpointing whether issues stemmed from network, pod, cable, or modem, enabling targeted field interventions.
-- Delivered actionable dashboards in Looker and collaborated with cross-functional teams to integrate AI models into operational workflows.
+- **Designed and deployed a production-grade RAG system on BigQuery** integrated with **Large language models (LLMs)** to automate ticket prioritization from **large volumes of unstructured support data**, **improving** operational **efficiency** and response speed by **80%**.
+- **Built real-time anomaly detection models** for location-level operational errors (buffering, WiFi, app failures), **enabling 15-min alerts** that accelerated network issue resolution and **improved customer satisfaction**.
+- Developed **root-cause models** to diagnose customer-level buffering errors, pinpointing whether issues stemmed from network, pod, cable, or modem, **enabling targeted field interventions**.
+- Delivered actionable **dashboards in Looker** and **collaborated with cross-functional teams** to integrate AI models into operational workflows.
 
 ### Data Scientist | Lowell | Amsterdam, Netherlands | April 2019 - June 2022
 - Developed machine learning models for pricing portfolios in debt collection, enhancing revenue forecasting accuracy within 5% error to actual.
@@ -70,7 +70,7 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 **Advanced Machine Learning on Google Cloud - Specialization | Google | 2025**
 - Production ML systems (MLOps), Computer Vision, Natural Language Processing (NLP), and Recommendation Systems, various Neural Network architecture (DNN, RNN, LSTM, GRU, CNN, transformers/BERT), VertexAI, GCP service APIs, TensorFlow. | [Credential link]((https://coursera.org/share/fd835cf51cb88b0e7bdd8cee8adc39b8) )
 
-**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. [Repo-link](https://github.com/ankur911/rag_llm_generic.git)
+**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. | [Repo link](https://github.com/ankur911/rag_llm_generic.git)
 
 ---
 
