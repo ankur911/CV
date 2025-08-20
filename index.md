@@ -32,7 +32,7 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 ### Computational Biophysics Researcher - PHD | University of Groningen | Groningen, Netherlands | March 2014 - March 2019
 - Designed and executed coarse-grained molecular dynamics simulations of nuclear pore complexes (~100K particles, 200M time steps at 20 fs per step) on HPC clusters, iterating across multiple NPC strains to model nanoscale transport mechanisms.
 - Engineered automated workflows for large-scale trajectory analysis, producing density maps, autocorrelation functions, and energy barriers (from umbrella sampling) — analogous to feature engineering, probabilistic modelling and bias-reduction techniques in AI.
-- Applied statistical modelling and pattern recognition to uncover molecular drivers of transport selectivity; published 7 peer reviewed papers in Nature Communications, eLife, PNAS, Biophysical Journal etc.
+- Applied statistical modelling and pattern recognition to uncover molecular drivers of transport selectivity; published 7 peer reviewed papers in *Nature Communications*, *eLife*, *PNAS*, *Biophysical Journal* etc.
 - Funded research contract completed in March 2019.
 
 ### Computational Physics Researcher | Max Planck Institute for Polymer Research | Mainz, Germany | May 2013 - January 2014
