@@ -64,7 +64,7 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 **Gemini in BigQuery Specialization | Google | 2025**
 - Generative AI in BigQuery, SQL & Python for Gemini models, workflow discovery & visualization, embeddings, vector search, RAG pipeline design, BigQuery & Google Cloud services, predictive modelling, EDA & data manipulation.
 
-**IBM Generative AI Engineering Specialization | IBM | 2025**
+**[IBM Generative AI Engineering Specialization](https://www.coursera.org/account/accomplishments/professional-cert/8DKGL1RJB0QX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) | IBM | 2025**
 - Generative AI: Generative AI Agents, Large Language Modelling, Prompt Engineering, Technical Foundations: NLP, Transformers, RAG, LangChain, Model Fine-Tuning (LoRA, QLoRA, DPO, PPO, Instruction tuning, reward modelling, PPO, DPO, RLHF-based fine-tuning techniques), Programming & Tools: Python, PyTorch, Hugging Face, Flask, Vector Databases, REST API, Gradio, Performance & Deployment: Performance Tuning, Application Development, UI Integration, Data Storage
 
 **Advanced Machine Learning on Google Cloud - Specialization | Google | 2025**
