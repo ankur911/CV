@@ -38,12 +38,12 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 ### Computational Physics Researcher | Max Planck Institute for Polymer Research | Mainz, Germany | May 2013 - January 2014
 - Executed high-resolution molecular simulations (>100 ns) of solid–liquid interfaces to quantify the impact of surface chemistry on fluid dynamics at the nanoscale.
 - Applied advanced data analysis to measure hydrogen bond lifetimes and rotational motion, identifying ~3–5× stability increases under specific surface polarization models.
-- Generated insights with direct application to materials engineering, published in peer reviewed journal informing design strategies for high-performance nanomaterials and catalytic surfaces.
+- Generated insights with direct application to materials engineering, [published](https://iopscience.iop.org/article/10.1088/0953-8984/26/24/244102) in peer reviewed journal informing design strategies for high-performance nanomaterials and catalytic surfaces.
 
 ### Junior Research Fellow | Indian Institute of Technology, Bombay | Mumbai, India | November 2012 - May 2013
 - Engineered and validated simulation models for unfolded polymer chains, executing 500+ high-throughput computational runs across diverse material and environmental parameters.
 - Leveraged large-scale data analytics on thousands of structural datasets to detect patterns, generate predictive phase maps, and model mechanical performance with >90% reproducibility.
-- Delivered results adopted in peer-reviewed publications, providing actionable design insights for advanced materials development.
+- Delivered results adopted in peer-reviewed [publication](https://doi.org/10.1002/mats.201300154), providing actionable design insights for advanced materials development.
 
 ### Associate | Cognizant, EAP | Gurugram, India | July 2011 - October 2012
 - Conducted in-depth analysis of marketing and sales data for global pharmaceutical firms using latent class and regression analysis and provided actionable plans within 4 months.
@@ -70,9 +70,7 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 **[Advanced Machine Learning on Google Cloud - Specialization](https://coursera.org/share/fd835cf51cb88b0e7bdd8cee8adc39b8) | Google | 2025**
 - Production ML systems (MLOps), Computer Vision, Natural Language Processing (NLP), and Recommendation Systems, various Neural Network architecture (DNN, RNN, LSTM, GRU, CNN, transformers/BERT), VertexAI, GCP service APIs, TensorFlow
 
-**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. Repo: link
-
-https://github.com/ankur911/rag_llm_generic.git
+**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. [Repo-link](https://github.com/ankur911/rag_llm_generic.git)
 
 ---
 
