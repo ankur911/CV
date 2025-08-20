@@ -78,9 +78,9 @@ https://github.com/ankur911/rag_llm_generic.git
 
 ## PUBLICATIONS (Selected)
 
-- Mishra, A., van der Giessen, E., & Onck, P. R. (2025). **Charge of karyopherins and nuclear FG-Nups are key ingredients of nucleocytoplasmic transport.** *Biophysical Journal*. https://doi.org/10.1016/j.bpj.2024.11.3313
+- **Mishra, A**., van der Giessen, E., & Onck, P. R. (2025). **Charge of karyopherins and nuclear FG-Nups are key ingredients of nucleocytoplasmic transport.** *Biophysical Journal*. https://doi.org/10.1016/j.bpj.2024.11.3313
 - Rempel, I. L., Crane, M. M., Thaller, D. J., **Mishra, A.**, et al. (2019). **Age-dependent deterioration of nuclear pore assembly in mitotic cells decreases transport dynamics.** *eLife*, 8:e48186. https://doi.org/10.7554/eLife.48186
-- Mishra, A., Sipma, W., Veenhoff, L. M., van der Giessen, E., & Onck, P. R. (2019). **The Effect of FG-Nup Phosphorylation on NPC Selectivity: A One-Bead-Per-Amino-Acid Molecular Dynamics Study.** *International Journal of Molecular Sciences*, 20(3), 596. https://doi.org/10.3390/ijms20030596
+- **Mishra, A**., Sipma, W., Veenhoff, L. M., van der Giessen, E., & Onck, P. R. (2019). **The Effect of FG-Nup Phosphorylation on NPC Selectivity: A One-Bead-Per-Amino-Acid Molecular Dynamics Study.** *International Journal of Molecular Sciences*, 20(3), 596. https://doi.org/10.3390/ijms20030596
 - Ananth, A. N., **Mishra, A.**, Frey, S., Dwarkasing, A., Versloot, R., van der Giessen, E., Görlich, D., Onck, P., & Dekker, C. (2018). **Spatial structure of disordered proteins dictates conductance and selectivity in nuclear pore complex mimics.** *eLife*, 7:e31510. https://doi.org/10.7554/eLife.31510
 - Ketterer, P., Ananth, A. N., Laman Trip, D. S., **Mishra, A.**, Bertosin, E., Ganji, M., van der Torre, J., Onck, P., Dietz, H., & Dekker, C. (2018). **DNA origami scaffold for studying intrinsically disordered proteins of the nuclear pore complex.** *Nature Communications*, 9, 902. https://doi.org/10.1038/s41467-018-03313-w
 
