@@ -26,7 +26,7 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 - Created a **discount mode**l leveraging machine learning and a **neural network-based litigation selection model**, resulting in a **15% increase in conversion rates**.
 - Gained **proficiency** in Python, SQL, Azure Databricks cloud platform while **building and monitoring model performance**.
 
-### Computational Biophysics Researcher - PHD | [University of Groningen] (https://www.rug.nl/) | Groningen, Netherlands | March 2014 - March 2019
+### Computational Biophysics Researcher - PHD | [University of Groningen](https://www.rug.nl/) | Groningen, Netherlands | March 2014 - March 2019
 - Designed and executed **coarse-grained (CG) molecular dynamics simulations** of nuclear pore complexes (**large protein complex**) at (100K CG beads, 200M time steps at 20 fs per step) on **HPC clusters**, iterating across multiple NPC strains to model **nanoscale transport mechanisms**.
 - **Engineered automated workflows** for **large-scale trajectory analysis**, producing **density maps**, **autocorrelation functions**, and energy barriers (from umbrella sampling) — **analogous to feature engineering, probabilistic modelling and bias-reduction techniques in AI**.
 - **Applied statistical modelling** and pattern recognition **to uncover molecular drivers of transport selectivity**; published 7 peer reviewed papers in *Nature Communications*, *eLife*, *PNAS*, *Biophysical Journal* etc.
