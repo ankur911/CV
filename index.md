@@ -1,6 +1,6 @@
 # Ankur Mishra
 
-**Data Science Lead**,**Location:** Amsterdam, Netherlands
+**Data Science Lead** | **Location:** Amsterdam, Netherlands
 **Email:** angusmishra@gmail.com | **Phone:** 0629986103 | 
 **LinkedIn:** [ankur-mishra-44798525](https://www.linkedin.com/in/ankur-mishra-44798525/) | **GitHub:** [github.com/ankur911](https://github.com/ankur911) |  **ORCID:** [0000-0002-7211-6868](https://orcid.org/0000-0002-7211-6868)
 
