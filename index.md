@@ -59,15 +59,15 @@ Innovative AI & Data Science professional with 15 years’ experience delivering
 ## CERTIFICATIONS and PROJECTS
 
 **Gemini in BigQuery Specialization , Google , 2025**
-- Generative AI in BigQuery, SQL & Python for Gemini models, workflow discovery & visualization, embeddings, vector search, RAG pipeline design, BigQuery & Google Cloud services, predictive modelling, EDA & data manipulation. |  [Credential link](https://coursera.org/share/0117f55fe21d22a0a37559084b44d7ed) 
+- Generative AI in BigQuery, SQL & Python for Gemini models, workflow discovery & visualization, embeddings, vector search, RAG pipeline design, BigQuery & Google Cloud services, predictive modelling, EDA & data manipulation. [Credential link](https://coursera.org/share/0117f55fe21d22a0a37559084b44d7ed) 
 
 **IBM Generative AI Engineering Specialization , IBM , 2025**
-- Generative AI: Generative AI Agents, Large Language Modelling, Prompt Engineering, Technical Foundations: NLP, Transformers, RAG, LangChain, Model Fine-Tuning (LoRA, QLoRA, DPO, PPO, Instruction tuning, reward modelling, PPO, DPO, RLHF-based fine-tuning techniques), Programming & Tools: Python, PyTorch, Hugging Face, Flask, Vector Databases, REST API, Gradio, Performance & Deployment: Performance Tuning, Application Development, UI Integration, Data Storage. | [Credential link](https://www.coursera.org/account/accomplishments/professional-cert/8DKGL1RJB0QX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- Generative AI: Generative AI Agents, Large Language Modelling, Prompt Engineering, Technical Foundations: NLP, Transformers, RAG, LangChain, Model Fine-Tuning (LoRA, QLoRA, DPO, PPO, Instruction tuning, reward modelling, PPO, DPO, RLHF-based fine-tuning techniques), Programming & Tools: Python, PyTorch, Hugging Face, Flask, Vector Databases, REST API, Gradio, Performance & Deployment: Performance Tuning, Application Development, UI Integration, Data Storage. [Credential link](https://www.coursera.org/account/accomplishments/professional-cert/8DKGL1RJB0QX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 **Advanced Machine Learning on Google Cloud - Specialization , Google , 2025**
 - Production ML systems (MLOps), Computer Vision, Natural Language Processing (NLP), and Recommendation Systems, various Neural Network architecture (DNN, RNN, LSTM, GRU, CNN, transformers/BERT), VertexAI, GCP service APIs, TensorFlow. | [Credential link](https://coursera.org/share/fd835cf51cb88b0e7bdd8cee8adc39b8)
 
-**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. | [Repo link](https://github.com/ankur911/rag_llm_generic.git)
+**Personal project:** Built a generic LangChain RAG pipeline (FAISS vector store → retrieval → LLM generation) exposed via a FastAPI. [Repo link](https://github.com/ankur911/rag_llm_generic.git)
 
 ---
 
